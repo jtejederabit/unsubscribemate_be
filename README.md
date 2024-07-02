@@ -5,6 +5,10 @@
 
 UnsubscribeMate Backend is a Node.js application designed to handle the server-side operations for UnsubscribeMate, helping users easily manage and unsubscribe from unwanted email subscriptions directly from their Gmail inbox. The backend utilizes Puppeteer and OpenAI to process unsubscribe links and communicate with the frontend via Socket.io.
 
+
+https://github.com/jtejederabit/unsubscribemate_be/assets/130762129/0f9b0365-734d-40af-ba03-0c90280c0760
+
+
 ## Features
 
 - **Socket.io Integration**: Real-time communication with the frontend to handle unsubscribe requests.
